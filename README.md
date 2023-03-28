@@ -16,71 +16,14 @@ Contents
 Clone the Repository and then in the project directory run the CLI command  python manage.py runserver
 
 ## Languages/Framework and their version
-appdirs 1.4.4
-
-asgiref 3.6.0
-
-beautifulsoup4 4.12.0
-
-certifi 2022.12.7
-
-cffi 1.15.1
-
-charset-normalizer 3.1.0
-
-cryptography 40.0.1
 
 Django 4.1.7
 
-django-cors-headers 3.14.0
-
-djangorestframework 3.14.0
-
-frozendict 2.3.6
-
 html5lib 1.1
-
-idna 3.4
-
-joblib 1.2.0
 
 keras 2.12.0
 
-lxml 4.9.2
-
-multitasking 0.0.11
-
-numpy 1.24.2
-
-pandas 1.5.3
-
-pandas-datareader 0.10.0
-
-protobuf 3.1.0
-
-pycparser 2.21
-
 python-dateutil 2.8.2
-
-pytz 2022.7.1
-
-requests 2.28.2
-
-scikit-learn 1.2.2
-
-scipy 1.10.1
-
-six 1.16.0
-
-soupsieve 2.4
-
-sqlparse 0.4.3
-
-threadpoolctl 3.1.0
-
-urllib3 1.26.15
-
-webencodings 0.5.1
 
 yfinance 0.2.14
 

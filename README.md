@@ -103,10 +103,14 @@ To go through our web page one needs to enter his/her details in the sign in pag
 
 Submit the ticker name for the stock whose closing price will be displayed.eg- 'AAPL', 'ADANIENT'..
 ## iii) Watchlist
-<img width="360" alt="Screenshot 2023-03-27 at 23 02 01" src="https://user-images.githubusercontent.com/95199085/228024503-550ef050-3443-48ea-9667-f999cee75d88.png">  <img width="360" alt="Screenshot 2023-03-27 at 22 51 53" src="https://user-images.githubusercontent.com/95199085/228024575-24104248-b134-439f-ba17-a7048a4c85a6.png">
-
+<img width="360" alt="Screenshot 2023-03-27 at 23 42 47" src="https://user-images.githubusercontent.com/95199085/228130868-9157de66-1e2d-472d-8767-78ae9a42d94d.png">  <img width="360" alt="Screenshot 2023-03-27 at 22 51 53" src="https://user-images.githubusercontent.com/95199085/228024575-24104248-b134-439f-ba17-a7048a4c85a6.png">
+<img width="360" alt="Screenshot 2023-03-27 at 23 02 01" src="https://user-images.githubusercontent.com/95199085/228024503-550ef050-3443-48ea-9667-f999cee75d88.png">
+<img width="360" alt="Screenshot 2023-03-27 at 23 43 16" src="https://user-images.githubusercontent.com/95199085/228130900-21817042-a536-4f35-a7e4-297f59a47153.png">
 
 The searched stock gets appended in the backend server and this provides the real time trading data and analysis curve (in the form of candle sticks) of the present stock at the user end.
+
+![Image 28-03-23 at 01 08](https://user-images.githubusercontent.com/95199085/228130975-c8344213-b322-4957-90c2-08c0a8422224.jpg)
+
 ## iv) 
 # Future Scope
 Till now , we have used LSTM model in our ML model. We also used RandomForests as they are more used widely for larger datsets, but due to its lack of inaccuracies and exclusivity for different types of datasets. RandomForests are more feasible as they predict whether the closing price will fall or rise, the next day.

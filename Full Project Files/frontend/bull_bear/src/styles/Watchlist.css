@@ -1,0 +1,52 @@
+body{
+  background-image: url("../images/Watchlist.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.watchlist{
+    margin-top: 5 rem;
+}
+
+.watchlist h3{
+    text-align: center;
+    margin: 2rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.entryticker {
+    margin-bottom: 5 rem;
+    padding-top: 0;
+}
+
+
+
+.button-link {
+    text-decoration: none;
+    margin-left: 5rem;
+    padding-top: 10rem;
+
+
+  }
+  .button-link button{
+    margin-bottom: 3rem;
+    margin-left: 5rem;
+    margin-right:5rem;
+  }
+  
+  .button-link button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-link button:hover {
+    background-color: #3e8e41;
+  }
+  

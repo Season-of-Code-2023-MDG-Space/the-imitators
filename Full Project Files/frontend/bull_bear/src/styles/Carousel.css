@@ -1,0 +1,19 @@
+.firstp {
+    color: white;
+    font-family: "American Typewriter";
+    font-size: larger;
+}
+
+.secondp {
+    color: black;
+    font-family: "American Typewriter";
+    font-size: larger;
+}
+
+.thirdp {
+    color: orangered;
+    font-family: "Font Awesome 5 Brands";
+    font-size: larger;
+    margin-top: 10rem;
+}
+

@@ -1,0 +1,28 @@
+
+
+.info{
+    
+
+    background-image:url("../images/Dashboard.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+
+.headings{
+    display: grid;
+    justify-content: center;
+    /* margin-top: 20rem; */
+}
+
+.headings h3{
+    font-family:'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-align: center;
+    
+}
+.dashboard-about{
+    margin-top: 27rem;
+}

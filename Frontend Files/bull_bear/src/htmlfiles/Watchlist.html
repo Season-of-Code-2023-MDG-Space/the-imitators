@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Watchlist.css">
+    <title>Watchlist</title>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-left">
+          <img src="../images/Bullbear logo.png" alt="Company Logo">
+          <h1>Bulls and Bears</h1>
+        </div>
+        <div class="navbar-right">
+          <a href="http://localhost:3000/dashboard" class="back-link">Go Back</a>
+        </div>
+      </nav>
+    <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/screener/" rel="noopener" target="_blank"><span class="blue-text">Stock screener</span></a> by TradingView</div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-screener.js" async>
+    {
+    "width"= "100%",
+    "height"= "100%",
+    "defaultColumn"= "valuation",
+    "defaultScreen"= "most_capitalized",
+    "market"= "india",
+    "showToolbar"= true,
+    "colorTheme"= "light",
+    "locale"= "in"
+  }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
+    
+</body>
+</html>

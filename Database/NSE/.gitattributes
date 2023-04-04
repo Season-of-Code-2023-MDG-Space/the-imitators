@@ -1,0 +1,2 @@
+NSE[[:space:]]Tickers[[:space:]]List.csv filter=lfs diff=lfs merge=lfs -text
+NSE[[:space:]]Stock[[:space:]]Data(upto[[:space:]]21feb).csv filter=lfs diff=lfs merge=lfs -text
